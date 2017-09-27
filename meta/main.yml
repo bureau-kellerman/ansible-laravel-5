@@ -1,0 +1,12 @@
+---
+
+galaxy_info:
+  description: Configures support for a Laravel 5 application
+  author: British Antarctic Survey - Web and Applications Team
+  company: British Antarctic Survey
+  license: MIT
+  min_ansible_version: 1.6
+dependencies:
+  - name: dot-env
+    src: git@github.com:bureau-kellerman/ansible-dot-env.git
+    scm: git
