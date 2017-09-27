@@ -8,5 +8,5 @@ galaxy_info:
   min_ansible_version: 1.6
 dependencies:
   - name: dot-env
-    src: git@github.com:bureau-kellerman/ansible-dot-env.git
+    src:  https://github.com/bureau-kellerman/ansible-dot-env
     scm: git
